@@ -25,7 +25,7 @@ python flappy_elon.py
 - Press "R" to restart if you lose
 
 ## 🙏 Credits
-Developed by [@KrimDevNode](https://github.com/KrimDevNode) with help from Grok.
+Developed by [@KrimDevNode](https://x.com/KrimDevNode) with help from Grok.
 
 ## 📜 License
 [MIT License](LICENSE)

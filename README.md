@@ -2,7 +2,7 @@
 
 A "Flappy Bird" style game with a SpaceX/Elon Musk twist, created in Python using Pygame.
 
-![Flappy Elon Game Screenshot]([screenshot.png](https://krimdevnode.ovh/flappy_elon.png))
+![Flappy Elon Game Screenshot](https://krimdevnode.ovh/flappy_elon.png)
 
 ## 📖 Description
 
